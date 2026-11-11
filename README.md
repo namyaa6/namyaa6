@@ -8,7 +8,7 @@
 - **SWE intern @ 5ive.ai**: scraped a 13k-example QA dataset, QLoRA fine-tuned LLaMA-2-7B. Code is private.
 
 Interested in: data-centric ML, retrieval, PEFT, LLM evaluation.
-namyajain6@gmail.com · [LinkedIn](<www.linkedin.com/in/namyajain6>)
+namyajain6@gmail.com · [LinkedIn](<https://www.linkedin.com/in/namyajain6>)
 
 <!--
 **namyaa6/namyaa6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
